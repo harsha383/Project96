@@ -1,0 +1,45 @@
+body {
+    background: linear-gradient(#003366,#00386e,#003d75,#00427d,#004785,#004c8c,#005294,#00579c,#005ca3,#0061ab,#0066b2,#006bba,#0070c2,#0075c9,#007ad1,#0080d9,#0085e0,#008ae8,#008ff0,#0094f7,#0099ff);
+    vertical-align: middle;
+    text-align: center;
+    background-size: cover;
+    height: 100%;
+}
+
+#logout {
+    margin-left: 90%;
+    text-align: left;
+    vertical-align: top;
+    font-size: 20px;
+}
+
+#header {
+    color: blue;
+    font-weight: bolder;
+    font-family: serif;
+    font-size: 60px;
+    text-decoration: darkblue;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    border-style: solid;
+    border-width: 4px;
+    border-color: blue;
+    background-color: aqua;
+    padding-bottom: 5px;
+}
+#send {
+    text-align: left;
+    vertical-align: top;
+    font-size: 20px;
+}
+.input_div_message_page {
+	position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background: rgba(255,255,255,0.8);
+}
+.container {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
